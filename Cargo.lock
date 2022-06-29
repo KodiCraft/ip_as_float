@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ReallyDumbIPThing"
-version = "0.1.0"
+name = "ip_as_float"
+version = "0.1.1"
